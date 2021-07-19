@@ -181,7 +181,7 @@ requests = ["requests (>=2.4.0,<3.0.0)"]
 
 [[package]]
 name = "elasticsearch-dsl"
-version = "7.3.0"
+version = "7.4.0"
 description = "Python client for Elasticsearch"
 category = "main"
 optional = false
@@ -568,7 +568,7 @@ testing = ["pytest (>=4.6)", "pytest-checkdocs (>=1.2.3)", "pytest-flake8", "pyt
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.7"
-content-hash = "b36c606fe3ce0cbd2550ac5e8b2f4b741d5020516e598954fa53a9d972e6ab6e"
+content-hash = "c0fbd613f87694e614a67faddd4952a738f734160ad9c6c9f49eee181370f491"
 
 [metadata.files]
 appdirs = [
@@ -685,8 +685,8 @@ elasticsearch = [
     {file = "elasticsearch-7.11.0.tar.gz", hash = "sha256:1e24b33a82bf381b42d3b0d390f76fdb9d6a9d47b310dea8eaeb0a5933c394c0"},
 ]
 elasticsearch-dsl = [
-    {file = "elasticsearch-dsl-7.3.0.tar.gz", hash = "sha256:0ed75f6ff037e36b2397a8e92cae0ddde79b83adc70a154b8946064cb62f7301"},
-    {file = "elasticsearch_dsl-7.3.0-py2.py3-none-any.whl", hash = "sha256:9390d8e5cf82ebad3505e7f656e407259cf703f5a4035f211cef454127672572"},
+    {file = "elasticsearch-dsl-7.4.0.tar.gz", hash = "sha256:c4a7b93882918a413b63bed54018a1685d7410ffd8facbc860ee7fd57f214a6d"},
+    {file = "elasticsearch_dsl-7.4.0-py2.py3-none-any.whl", hash = "sha256:046ea10820b94c075081b528b4526c5bc776bda4226d702f269a5f203232064b"},
 ]
 flake8 = [
     {file = "flake8-3.9.2-py2.py3-none-any.whl", hash = "sha256:bf8fd333346d844f616e8d47905ef3a3384edae6b4e9beb0c5101e25e3110907"},
