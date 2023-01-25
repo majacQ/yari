@@ -2575,10 +2575,10 @@
     "@types/yargs" "^16.0.0"
     chalk "^4.0.0"
 
-"@mdn/browser-compat-data@3.3.8":
-  version "3.3.8"
-  resolved "https://registry.yarnpkg.com/@mdn/browser-compat-data/-/browser-compat-data-3.3.8.tgz#1d236cc4b127584ece97db593a1b0ba5e4e00fba"
-  integrity sha512-0Yb0nvzo9dvb0a3wer907Ouc6vHyt4R2vtRY8rFYVo8WoXlRBsblWxW2cYY9nNRRXrNLq5alBMgcXb22S8fccQ==
+"@mdn/browser-compat-data@5.2.31":
+  version "5.2.31"
+  resolved "https://registry.yarnpkg.com/@mdn/browser-compat-data/-/browser-compat-data-5.2.31.tgz#c8010d5b1abd3a2b0942703ee27695713ba90b23"
+  integrity sha512-tOav2FmnXMkdJqyq7ne3l/+YK6r+Q8JIOxnAxP+lfFx28HOLuYLI7thntMGK0eghG6p9ivXcCbDQ2Q58cw3zUw==
 
 "@mdn/dinocons@^0.3.2":
   version "0.3.2"
